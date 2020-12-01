@@ -30,6 +30,7 @@ def binary_search(li, item):
 lines = read_input_lines(int)
 
 # PART 1
+# N * log N
 def part1(lines):
     for num1 in lines:
         remainder = 2020 - num1
@@ -37,8 +38,7 @@ def part1(lines):
             return num1 * remainder
 
 # PART 2
-# We only have input of N = 200, N^3 will be 8 * 10^6, will run in a few seconds.
-# literal definition spaghetti code <3, but it gets the job done.
+# N^2 * log N
 def part2():
     for num1 in lines:
         remainder = 2020 - num1
