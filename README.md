@@ -6,3 +6,7 @@
 - **Day 2**: Today's problems were a little bit tougher than yesterdays, but not terribly bad. I unfortunately turned in a couple of wrong answers which meant I had to wait to be able to submit my correct answer. Took me 14 minutes to get both stars.
 
 - **Day 3**: A good day today! Kinda interesting and made a quite simple algorithm.
+
+- **Day 4**: Today's problem was a bit tricky. Involved a bit of nasty if statements from my part. But got there in the end!
+
+- **Day 5**: Day 5 was a fun problem! Involved some math and logic and that's always nice!
