@@ -10,3 +10,5 @@
 - **Day 4**: Today's problem was a bit tricky. Involved a bit of nasty if statements from my part. But got there in the end!
 
 - **Day 5**: Day 5 was a fun problem! Involved some math and logic and that's always nice!
+
+- **Day 6**: This day's problem was relatively easy, however it took me a minute before understanding what to do on part 2.
