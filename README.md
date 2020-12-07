@@ -12,3 +12,5 @@
 - **Day 5**: Day 5 was a fun problem! Involved some math and logic and that's always nice!
 
 - **Day 6**: This day's problem was relatively easy, however it took me a minute before understanding what to do on part 2.
+
+- **Day 7**: Interesting problem today, a bit of recursion and using dicts goes a long way!
