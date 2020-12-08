@@ -14,3 +14,5 @@
 - **Day 6**: This day's problem was relatively easy, however it took me a minute before understanding what to do on part 2.
 
 - **Day 7**: Interesting problem today, a bit of recursion and using dicts goes a long way!
+
+- **Day 8**: I really liked today's problem. It's fun trying to parse and run a made up programming language!
