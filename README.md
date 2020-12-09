@@ -16,3 +16,5 @@
 - **Day 7**: Interesting problem today, a bit of recursion and using dicts goes a long way!
 
 - **Day 8**: I really liked today's problem. It's fun trying to parse and run a made up programming language!
+
+- **Day 9**: My solution for today was a rather brute force method which worked surprisingly well, even if it's time complexity wasn't that good.
