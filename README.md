@@ -18,3 +18,5 @@
 - **Day 8**: I really liked today's problem. It's fun trying to parse and run a made up programming language!
 
 - **Day 9**: My solution for today was a rather brute force method which worked surprisingly well, even if it's time complexity wasn't that good.
+
+- **Day 10**: Today's problem was a bit more difficult for me. I haven't worked that much with combinatorics, so it was good practice :)
