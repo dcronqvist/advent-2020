@@ -20,3 +20,5 @@
 - **Day 9**: My solution for today was a rather brute force method which worked surprisingly well, even if it's time complexity wasn't that good.
 
 - **Day 10**: Today's problem was a bit more difficult for me. I haven't worked that much with combinatorics, so it was good practice :)
+
+- **Day 11**: This problem was quite interesting! It took me a bit of extra time to get right since I had read the instructions too fast and missed out a case :(
