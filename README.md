@@ -22,3 +22,7 @@
 - **Day 10**: Today's problem was a bit more difficult for me. I haven't worked that much with combinatorics, so it was good practice :)
 
 - **Day 11**: This problem was quite interesting! It took me a bit of extra time to get right since I had read the instructions too fast and missed out a case :(
+
+- **Day 12**: Interesting stuff, thought about using complex numbers to decide angle but it would be nowhere near as fast as just using basic linear algebra vector rotation.
+
+- **Day 13**: A lot of math was involved in this one, ended up using the chinese remainder theorem to solve part 2.
