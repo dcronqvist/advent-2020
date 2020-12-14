@@ -26,3 +26,5 @@
 - **Day 12**: Interesting stuff, thought about using complex numbers to decide angle but it would be nowhere near as fast as just using basic linear algebra vector rotation.
 
 - **Day 13**: A lot of math was involved in this one, ended up using the chinese remainder theorem to solve part 2.
+
+- **Day 14**: Today was fun! I haven't had much time to do these problems in the morning unfortunately, so I've fallen down the leaderboard :(
