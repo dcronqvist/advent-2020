@@ -28,3 +28,5 @@
 - **Day 13**: A lot of math was involved in this one, ended up using the chinese remainder theorem to solve part 2.
 
 - **Day 14**: Today was fun! I haven't had much time to do these problems in the morning unfortunately, so I've fallen down the leaderboard :(
+
+- **Day 15**: I went up in time today! I had some trouble getting the hang of the rules for the game the elves were playing, but once it clicked I managed to solve it relatively quickly.
