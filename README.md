@@ -30,3 +30,5 @@
 - **Day 14**: Today was fun! I haven't had much time to do these problems in the morning unfortunately, so I've fallen down the leaderboard :(
 
 - **Day 15**: I went up in time today! I had some trouble getting the hang of the rules for the game the elves were playing, but once it clicked I managed to solve it relatively quickly.
+
+- **Day 16**: This was a really cool problem, and unlike any problem I've done before. It was super interesting to try to figure out which column that corresponded to which.
